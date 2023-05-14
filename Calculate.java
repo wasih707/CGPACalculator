@@ -39,21 +39,6 @@ public class Calculate {
 				+ (10 * S_credit)) / total_credit;
 		System.out.printf("Your CGPA is: %.2f", cgpa);
 
-//		while(iter != 1) {
-//			if (iter%2==0) {
-//				System.out.println(iter + " is even. So, I take half: " + (iter/2));
-//				iter /= 2;
-//				count++;
-//			}
-//			else {
-//				System.out.println(iter + " is odd. So, I make 3n+1: " + (3*iter+1));
-//				count++;
-//				iter = (3*iter+1);
-//				
-//			}
-//			
-//		}
-//		System.out.println("There are " + count + " steps to reach 1");
 
 	}
 
